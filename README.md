@@ -1,12 +1,25 @@
 - 👋 Hi, I’m @JB5611
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+### Beginner Front-End Developer | React Enthusiast
 
-<!---
-JB5611/JB5611 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🚀 Passionate about building interactive web interfaces and constantly learning new technologies.
+
+## 🛠 Tech Stack
+**Core Skills:**
+- 🌐 HTML5, CSS3 (Flexbox, Grid, Responsive Design)
+- 🟨 JavaScript (ES6+), DOM Manipulation
+- ⚛️ React.js (Hooks, Components, JSX)
+- 🎨 CSS Preprocessors (SASS/SCSS)
+
+**Tools:**
+- 🗃 Git & GitHub
+- 📦 npm/yarn
+- 🔧 Webpack/Vite (Basic Configuration)
+
+  
+## 📚 Currently Learning
+- TypeScript
+- Advanced React Patterns
+- UI/UX Principles
+
+## 📫 How to Reach Me
+- Email: genoszaz61@gmail.com
